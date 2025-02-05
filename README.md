@@ -1,6 +1,6 @@
 # first_repo
 this is first repo
 <br>
-Author :- Aniket
+Author :- Aniket Wakekar
 <br>
 platform : Linux
